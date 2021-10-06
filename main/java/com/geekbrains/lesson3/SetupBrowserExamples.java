@@ -9,7 +9,6 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 
 //1. Перенесите два сценария для CRM и два сценария из своего проекта из Selenium IDE в код проектов.
 //2. Сдайте ссылки на оба репозитория преподавателю.
